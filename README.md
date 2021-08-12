@@ -1,4 +1,4 @@
-# LuneKey
+# LuneKey 🌕🗝️
 [LuneKey] is our Token on Binance Smart Chain 
 
 # Available on PancakeSwap 🥞
